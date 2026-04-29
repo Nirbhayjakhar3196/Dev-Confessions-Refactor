@@ -17,3 +17,5 @@ npm install && npm start
 
 ## Refactor Completed
 MVC structure + cleaner codebase
+
+Final PR update
